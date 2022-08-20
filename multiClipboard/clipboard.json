@@ -1,0 +1,5 @@
+{
+    "python": "save",
+    "test": "command == \"load\":",
+    "oop": "command == \"load\":"
+}
